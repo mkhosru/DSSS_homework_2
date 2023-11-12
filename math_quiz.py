@@ -1,5 +1,5 @@
 import random
-
+#new branch
 
 def function_A(min, max):
     """
